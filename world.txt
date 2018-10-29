@@ -5,5 +5,3 @@ Good morning, world!
 Have a good night, world!
 
 Hello, universe!
-
-Hello, DCO App!
