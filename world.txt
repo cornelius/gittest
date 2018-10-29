@@ -1,1 +1,9 @@
-hello
+Hello, world!
+How are you today?
+
+Good morning, world!
+Have a good night, world!
+
+Hello, universe!
+
+Hello, DCO App!
