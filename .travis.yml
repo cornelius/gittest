@@ -1,0 +1,5 @@
+language: python
+python:
+  - "3.7"
+script:
+  - hello3/test_hello3.py
