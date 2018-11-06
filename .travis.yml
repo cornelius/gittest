@@ -2,4 +2,4 @@ language: python
 python:
   - "3.6"
 script:
-  - python3 hello3/test_hello.py
+  - make check
