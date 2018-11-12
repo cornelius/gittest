@@ -1,6 +1,7 @@
 ---
-name: Pull request
-about: Contribute your work to the project
+*Thanks for contributing! Here are some hints how to create great pull request:*
 
----
-Hello, world!
+* Make sure unit tests are green.
+* Make sure functional tests are green.
+* Reference issues the pull request addresses, e.g. by adding a line `Fixes
+  #123`.
