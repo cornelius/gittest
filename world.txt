@@ -5,4 +5,5 @@ Have a good night, world!
 
 Hello, universe!
 
-Hello, last line of the file!
+Hello, second last line of the file!
+Hello!
