@@ -2,7 +2,7 @@
 
 messages = []
 
-messages.append("Hello, dear world!")
+messages.append("Hello, world!")
 messages.append("Hello, people!")
 
 for message in messages:
