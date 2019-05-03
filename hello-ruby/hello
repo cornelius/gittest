@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
 
 puts "Hello, dear world!"
+puts "The answer is #{40 + 2}."
