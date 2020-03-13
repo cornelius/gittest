@@ -4,6 +4,7 @@ Good morning, world!
 Have a good night, world!
 Good afternoon, world!
 Good evening, world!
+Good teatime, world!
 
 Hello, universe!
 
