@@ -9,5 +9,5 @@ Good night, world!
 
 Hello, universe!
 
-Hello, second last line of the xfile!
+Hello, second last line of the file!
 Hello, last line of the file!
